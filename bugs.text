@@ -1,0 +1,8 @@
+1.	Count leading zero bits
+o	When the input is zero (a_in=0) the result in the design give me 32 but the correct answer is 0 because no ones in the number 
+
+2.	Count trailing zero bits
+o	When the input is zero (a_in=0) the result in the design gives me 32 but the correct answer is 0 because no ones in the number 
+
+3.	Packu
+There is a bug in  the design
